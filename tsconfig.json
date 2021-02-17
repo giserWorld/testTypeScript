@@ -3,7 +3,7 @@
         "baseUrl": "./src",
         "outDir": "./dist",
         "sourceMap": false,
-        "declaration": true,
+        "declaration": false,
         "module": "es2015",
         "target": "es6"
     }
